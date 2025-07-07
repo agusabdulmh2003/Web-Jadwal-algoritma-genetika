@@ -1,0 +1,83 @@
+Subject,Department,Teacher,WeeklyMinutes,NumClasses,SessionDuration,DaysPerWeek,CustomDistribution
+Akidah Akhlak,IPA,Chumaimatul Banat,320,7,40,6,IPA 1:2;IPA 2:2;IPA 3:2;IPA 4:2
+Akidah Akhlak,IPA,Hj. Laila Wahyuni,240,7,40,6,IPA 5:2;IPA 6:2;IPA 7:2
+Bahasa & Sastra Inggris,IPA,Aulia Rahma Eka Kusuma Dewi,1080,7,40,6,IPA 1:3;IPA 2:4;IPA 3:4;IPA 4:4;IPA 5:4;IPA 6:4;IPA 7:4
+Bhs Arab,IPA,Hj. Akfarotun,80,7,40,6,IPA 7:2
+Bhs Arab,IPA,Sutarto,480,7,40,6,IPA 1:2;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2
+Bhs Indonesia,IPA,Hartini,640,7,40,6,IPA 3:4;IPA 4:4;IPA 5:4;IPA 6:4
+Bhs Indonesia,IPA,Mustofa,160,7,40,6,IPA 7:4
+Bhs Indonesia,IPA,Sri Subekti,280,7,40,6,IPA 1:3;IPA 2:4
+Bhs Inggris,IPA,Dra. Hj. Siti Chomsiyah,240,7,40,6,IPA 6:3;IPA 7:3
+Bhs Inggris,IPA,Istiqomah,560,7,40,6,IPA 1:2;IPA 2:3;IPA 3:3;IPA 4:3;IPA 5:3
+Bhs Jawa,IPA,Kustoto Amri,280,7,40,6,IPA 1:1;IPA 2:1;IPA 3:1;IPA 4:1;IPA 5:1;IPA 6:1;IPA 7:1
+Biologi,IPA,Khusnul Khotimah,280,7,40,6,IPA 1:3;IPA 2:4
+Biologi,IPA,Muh. Nuryadin,800,7,40,6,IPA 3:4;IPA 4:4;IPA 5:4;IPA 6:4;IPA 7:4
+Fiqih,IPA,Atourrohman,80,7,40,6,IPA 7:2
+Fiqih,IPA,Imam Abdul Abas,480,7,40,6,IPA 1:2;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2
+Fisika,IPA,Chabib Junaedi,320,7,40,6,IPA 4:4;IPA 5:4
+Fisika,IPA,Mohamad Sodik,760,7,40,6,IPA 1:3;IPA 2:4;IPA 3:4;IPA 6:4;IPA 7:4
+Kimia,IPA,Awalia Rahmah,760,7,40,6,IPA 1:3;IPA 2:4;IPA 3:4;IPA 4:4;IPA 7:4
+Kimia,IPA,Rafika Sarah Aulia,320,7,40,6,IPA 5:4;IPA 6:4
+Matematika,IPA,Slamet,320,7,40,6,IPA 6:4;IPA 7:4
+Matematika,IPA,Wawan Pujiyatno,760,7,40,6,IPA 1:3;IPA 2:4;IPA 3:4;IPA 4:4;IPA 5:4
+Matematika Peminatan,IPA,Tri Haryani,600,7,40,6,IPA 1:3;IPA 2:4;IPA 3:4;IPA 4:4
+Matematika Peminatan,IPA,Yesy Wulandari,480,7,40,6,IPA 5:4;IPA 6:4;IPA 7:4
+Penjaskes,IPA,Hudadin,80,7,40,6,IPA 7:2
+Penjaskes,IPA,Husen Masruri,480,7,40,6,IPA 1:2;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2
+PKn,IPA,Hj. Elisa Susanti,560,7,40,6,IPA 1:2;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2
+Prakaryan,IPA,Fatma Dewi,80,7,40,6,IPA 7:2
+Prakaryan,IPA,Fitriani Eka Rahmawati,440,7,40,6,IPA 1:1;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2
+Qur'an Hadist,IPA,HJ. Rahmah Setiawati,560,7,40,6,IPA 1:2;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2;IPA 7:2
+Riset,IPA,Aulia Rahma Eka Kusuma Dewi,80,7,40,6,IPA 2:1;IPA 3:1
+Riset,IPA,Toha Mukhtar,40,7,40,6,IPA 1:1
+Riset,IPA,Yesy Wulandari,160,7,40,6,IPA 4:1;IPA 5:1;IPA 6:1;IPA 7:1
+Sejarah,IPA,Ika Surya Wardani,560,7,40,6,IPA 1:2;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2;IPA 7:2
+Seni Budaya,IPA,Imam Ramadhan B P,520,7,40,6,IPA 1:1;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2;IPA 7:2
+SKI,IPA,Dra. Hj. Turliyah,560,7,40,6,IPA 1:2;IPA 2:2;IPA 3:2;IPA 4:2;IPA 5:2;IPA 6:2;IPA 7:2
+Tahfizd,IPA,Awalia Rahmah,400,7,40,5,IPA 1:10
+Akidah Akhlak,IPS,Hj. Laila Wahyuni,240,3,40,6,IPS 1:2;IPS 2:2;IPS 3:2
+Bhs Arab,IPS,Hj. Akfarotun,240,3,40,6,IPS 1:2;IPS 2:2;IPS 3:2
+Bhs Indonesia,IPS,Mustofa,480,3,40,6,IPS 1:4;IPS 2:4;IPS 3:4
+Bhs Inggris,IPS,Dra. Hj. Siti Chomsiyah,360,3,40,6,IPS 1:3;IPS 2:3;IPS 3:3
+Bhs Jawa,IPS,Kustoto Amri,120,3,40,6,IPS 1:1;IPS 2:1;IPS 3:1
+Biologi LP,IPS,Handriyani,160,3,40,6,IPS 3:4
+Biologi LP,IPS,Toha Mukhtar,240,3,40,6,IPS 1:2;IPS 2:4
+Ekonomi,IPS,Fatma Dewi,320,3,40,6,IPS 1:4;IPS 2:4
+Ekonomi,IPS,Siti Nurhidayati,160,3,40,6,IPS 3:4
+Fiqih,IPS,Atourrohman,240,3,40,6,IPS 1:2;IPS 2:2;IPS 3:2
+Geografi,IPS,Purwanto,480,3,40,6,IPS 1:4;IPS 2:4;IPS 3:4
+Kimia,IPS,Toha Mukhtar,40,3,40,6,IPS 1:1
+Matematika,IPS,Eko Cahyono,320,3,40,6,IPS 2:4;IPS 3:4
+Matematika,IPS,Slamet,160,3,40,6,IPS 1:4
+Penjaskes,IPS,Endang Prihatiningsih,80,3,40,6,IPS 3:2
+Penjaskes,IPS,Hudadin,160,3,40,6,IPS 1:2;IPS 2:2
+PKn,IPS,Hj. Elisa Susanti,240,3,40,6,IPS 1:2;IPS 2:2;IPS 3:2
+Prakaryan,IPS,Fatma Dewi,80,3,40,6,IPS 1:2
+Prakaryan,IPS,Siti Nurhidayati,160,3,40,6,IPS 2:2;IPS 3:2
+Qur'an Hadist,IPS,HJ. Rahmah Setiawati,240,3,40,6,IPS 1:2;IPS 2:2;IPS 3:2
+Riset,IPS,Toha Mukhtar,160,3,40,6,IPS 1:2;IPS 3:1;IPS 3:1
+Sejarah,IPS,Ika Surya Wardani,240,3,40,6,IPS 1:2;IPS 2:2;IPS 3:2
+Sejarah Pemint,IPS,Masruroh Ninda H,480,3,40,6,IPS 1:4;IPS 2:4;IPS 3:4
+Seni Budaya,IPS,Imam Ramadhan B P,240,3,40,6,IPS 1:2;IPS 2:2;IPS 3:2
+SKI,IPS,Dra. Hj. Turliyah,240,3,40,6,IPS 1:2;IPS 2:2;IPS 3:2
+Sosiologi,IPS,Handriyani,480,3,40,6,IPS 1:4;IPS 2:4;IPS 3:4
+Akidah Akhlak,AGAMA,Hj. Laila Wahyuni,160,1,40,6,AGAMA 1:4
+B.Arab Pemint,AGAMA,Hj. Akfarotun,120,1,40,6,AGAMA 1:3
+Bhs Arab,AGAMA,Hj. Akfarotun,80,1,40,6,AGAMA 1:2
+Bhs Indonesia,AGAMA,Mustofa,160,1,40,6,AGAMA 1:4
+Bhs Inggris,AGAMA,Dra. Hj. Siti Chomsiyah,120,1,40,6,AGAMA 1:3
+Bhs Jawa,AGAMA,Kustoto Amri,40,1,40,6,AGAMA 1:1
+Fiqih,AGAMA,Atourrohman,80,1,40,6,AGAMA 1:2
+Hadits,AGAMA,Dra. Hj. Mundiyah,120,1,40,6,AGAMA 1:3
+Matematika,AGAMA,Eko Cahyono,160,1,40,6,AGAMA 1:4
+Penjaskes,AGAMA,Endang Prihatiningsih,80,1,40,6,AGAMA 1:2
+PKn,AGAMA,Hj. Elisa Susanti,80,1,40,6,AGAMA 1:2
+Prakaryan,AGAMA,Siti Nurhidayati,80,1,40,6,AGAMA 1:2
+Qur'an Hadist,AGAMA,Dra. Hj. Mundiyah,160,1,40,6,AGAMA 1:4
+Riset,AGAMA,Toha Mukhtar,40,1,40,6,AGAMA 1:1
+Sejarah,AGAMA,Ika Surya Wardani,80,1,40,6,AGAMA 1:2
+Seni Budaya,AGAMA,Imam Ramadhan B P,80,1,40,6,AGAMA 1:2
+SKI,AGAMA,Dra. Hj. Turliyah,80,1,40,6,AGAMA 1:2
+Sosiologi LP,AGAMA,Muslichatun,160,1,40,6,AGAMA 1:4
+Tafsir,AGAMA,HJ. Rahmah Setiawati,120,1,40,6,AGAMA 1:3
+Usul  Fiqih,AGAMA,Atourrohman,120,1,40,6,AGAMA 1:3

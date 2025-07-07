@@ -1,0 +1,494 @@
+Day,Subject,Class,Teacher,Timeslot
+Senin,Fiqih,12 IPA 1,Atourrohman,1
+Senin,Bhs Arab,12 IPA 1,Hj. Akfarotun,2
+Senin,Fiqih,12 IPA 1,Imam Abdul Abas,3
+Senin,Sosiologi LP,12 IPA 1,Muslichatun,4
+Senin,Fisika,12 IPA 1,Chabib Junaedi,5
+Senin,Ekonomi,12 IPA 1,Fatma Dewi,6
+Senin,Bhs Indonesia,12 IPA 1,Mustofa,7
+Senin,PKn,12 IPA 1,Hj. Elisa Susanti,9
+Selasa,Bhs Arab,12 IPA 1,Sutarto,1
+Selasa,Bhs Inggris,12 IPA 1,Dra. Hj. Siti Chomsiyah,2
+Selasa,Tahfizd,12 IPA 1,Awalia Rahmah,3
+Selasa,Fisika,12 IPA 1,Chabib Junaedi,4
+Selasa,Sejarah,12 IPA 1,Ika Surya Wardani,5
+Selasa,Bhs Jawa,12 IPA 1,Kustoto Amri,6
+Selasa,Prakaryan,12 IPA 1,Siti Nurhidayati,7
+Selasa,Seni Budaya,12 IPA 1,Imam Ramadhan B P,8
+Selasa,Penjaskes,12 IPA 1,Husen Masruri,9
+Rabu,Sejarah,12 IPA 1,Ika Surya Wardani,1
+Rabu,Bhs Indonesia,12 IPA 1,Mustofa,2
+Rabu,Fiqih,12 IPA 1,Atourrohman,3
+Rabu,Akidah Akhlak,12 IPA 1,Chumaimatul Banat,4
+Rabu,Penjaskes,12 IPA 1,Hudadin,5
+Rabu,Prakaryan,12 IPA 1,Fitriani Eka Rahmawati,6
+Rabu,Akidah Akhlak,12 IPA 1,Hj. Laila Wahyuni,7
+Rabu,Matematika Peminatan,12 IPA 1,Yesy Wulandari,8
+Rabu,Biologi LP,12 IPA 1,Toha Mukhtar,9
+Kamis,Penjaskes,12 IPA 1,Endang Prihatiningsih,1
+Kamis,Kimia,12 IPA 1,Rafika Sarah Aulia,2
+Kamis,Seni Budaya,12 IPA 1,Imam Ramadhan B P,3
+Kamis,Akidah Akhlak,12 IPA 1,Hj. Laila Wahyuni,5
+Kamis,Penjaskes,12 IPA 1,Endang Prihatiningsih,6
+Kamis,Riset,12 IPA 1,Aulia Rahma Eka Kusuma Dewi,7
+Kamis,Kimia,12 IPA 1,Rafika Sarah Aulia,8
+Kamis,Bhs Indonesia,12 IPA 1,Mustofa,9
+Jumat,Bhs Arab,12 IPA 1,Sutarto,1
+Jumat,Bhs Inggris,12 IPA 1,Dra. Hj. Siti Chomsiyah,2
+Jumat,Seni Budaya,12 IPA 1,Imam Ramadhan B P,3
+Jumat,Prakaryan,12 IPA 1,Siti Nurhidayati,4
+Jumat,Penjaskes,12 IPA 1,Endang Prihatiningsih,5
+Sabtu,Qur'an Hadist,12 IPA 1,HJ. Rahmah Setiawati,1
+Sabtu,Biologi,12 IPA 1,Muh. Nuryadin,2
+Sabtu,Bhs Indonesia,12 IPA 1,Sri Subekti,3
+Sabtu,Bhs Jawa,12 IPA 1,Kustoto Amri,4
+Sabtu,Bhs Arab,12 IPA 1,Hj. Akfarotun,5
+Sabtu,Sejarah,12 IPA 1,Ika Surya Wardani,6
+Senin,Riset,12 IPA 2,Toha Mukhtar,1
+Senin,Qur'an Hadist,12 IPA 2,HJ. Rahmah Setiawati,2
+Senin,Bhs Arab,12 IPA 2,Hj. Akfarotun,3
+Senin,Bhs Indonesia,12 IPA 2,Mustofa,4
+Senin,Bhs Jawa,12 IPA 2,Kustoto Amri,5
+Senin,Prakaryan,12 IPA 2,Fatma Dewi,6
+Senin,Tahfizd,12 IPA 2,Awalia Rahmah,7
+Senin,Matematika,12 IPA 2,Wawan Pujiyatno,8
+Senin,Akidah Akhlak,12 IPA 2,Hj. Laila Wahyuni,9
+Selasa,Bhs Arab,12 IPA 2,Hj. Akfarotun,1
+Selasa,Bahasa & Sastra Inggris,12 IPA 2,Aulia Rahma Eka Kusuma Dewi,2
+Selasa,Akidah Akhlak,12 IPA 2,Hj. Laila Wahyuni,3
+Selasa,Bhs Indonesia,12 IPA 2,Mustofa,4
+Selasa,Riset,12 IPA 2,Aulia Rahma Eka Kusuma Dewi,5
+Selasa,Fiqih,12 IPA 2,Atourrohman,6
+Selasa,Sosiologi LP,12 IPA 2,Muslichatun,7
+Selasa,Riset,12 IPA 2,Toha Mukhtar,8
+Selasa,Bhs Inggris,12 IPA 2,Dra. Hj. Siti Chomsiyah,9
+Rabu,Akidah Akhlak,12 IPA 2,Chumaimatul Banat,1
+Rabu,Riset,12 IPA 2,Toha Mukhtar,3
+Rabu,Akidah Akhlak,12 IPA 2,Hj. Laila Wahyuni,4
+Rabu,Seni Budaya,12 IPA 2,Imam Ramadhan B P,5
+Rabu,Akidah Akhlak,12 IPA 2,Hj. Laila Wahyuni,6
+Rabu,Penjaskes,12 IPA 2,Hudadin,7
+Rabu,Biologi LP,12 IPA 2,Handriyani,8
+Rabu,Bhs Inggris,12 IPA 2,Dra. Hj. Siti Chomsiyah,9
+Kamis,Bhs Indonesia,12 IPA 2,Hartini,1
+Kamis,SKI,12 IPA 2,Dra. Hj. Turliyah,2
+Kamis,Akidah Akhlak,12 IPA 2,Hj. Laila Wahyuni,3
+Kamis,Qur'an Hadist,12 IPA 2,HJ. Rahmah Setiawati,4
+Kamis,Ekonomi,12 IPA 2,Siti Nurhidayati,5
+Kamis,Matematika Peminatan,12 IPA 2,Tri Haryani,6
+Kamis,Matematika,12 IPA 2,Slamet,8
+Kamis,PKn,12 IPA 2,Hj. Elisa Susanti,9
+Jumat,SKI,12 IPA 2,Dra. Hj. Turliyah,2
+Jumat,Bhs Arab,12 IPA 2,Sutarto,3
+Jumat,SKI,12 IPA 2,Dra. Hj. Turliyah,4
+Jumat,Fisika,12 IPA 2,Mohamad Sodik,5
+Sabtu,Biologi LP,12 IPA 2,Toha Mukhtar,1
+Sabtu,Riset,12 IPA 2,Toha Mukhtar,2
+Sabtu,Riset,12 IPA 2,Toha Mukhtar,3
+Sabtu,Matematika,12 IPA 2,Slamet,4
+Sabtu,Bhs Arab,12 IPA 2,Hj. Akfarotun,5
+Sabtu,Bahasa & Sastra Inggris,12 IPA 2,Aulia Rahma Eka Kusuma Dewi,6
+Senin,Hadits,12 IPA 3,Dra. Hj. Mundiyah,1
+Senin,Seni Budaya,12 IPA 3,Imam Ramadhan B P,2
+Senin,Bhs Arab,12 IPA 3,Hj. Akfarotun,3
+Senin,Fisika,12 IPA 3,Chabib Junaedi,4
+Senin,Penjaskes,12 IPA 3,Endang Prihatiningsih,5
+Senin,Akidah Akhlak,12 IPA 3,Hj. Laila Wahyuni,7
+Senin,Riset,12 IPA 3,Aulia Rahma Eka Kusuma Dewi,8
+Selasa,PKn,12 IPA 3,Hj. Elisa Susanti,1
+Selasa,Seni Budaya,12 IPA 3,Imam Ramadhan B P,2
+Selasa,Tafsir,12 IPA 3,HJ. Rahmah Setiawati,3
+Selasa,Akidah Akhlak,12 IPA 3,Hj. Laila Wahyuni,4
+Selasa,Fiqih,12 IPA 3,Atourrohman,5
+Selasa,PKn,12 IPA 3,Hj. Elisa Susanti,6
+Selasa,Bhs Arab,12 IPA 3,Hj. Akfarotun,7
+Selasa,Bhs Arab,12 IPA 3,Hj. Akfarotun,8
+Selasa,Sejarah,12 IPA 3,Ika Surya Wardani,9
+Rabu,Seni Budaya,12 IPA 3,Imam Ramadhan B P,1
+Rabu,SKI,12 IPA 3,Dra. Hj. Turliyah,2
+Rabu,Prakaryan,12 IPA 3,Fitriani Eka Rahmawati,3
+Rabu,PKn,12 IPA 3,Hj. Elisa Susanti,4
+Rabu,Riset,12 IPA 3,Aulia Rahma Eka Kusuma Dewi,5
+Rabu,Biologi,12 IPA 3,Muh. Nuryadin,6
+Rabu,Bhs Indonesia,12 IPA 3,Mustofa,7
+Rabu,Sosiologi LP,12 IPA 3,Muslichatun,9
+Kamis,Prakaryan,12 IPA 3,Siti Nurhidayati,1
+Kamis,PKn,12 IPA 3,Hj. Elisa Susanti,2
+Kamis,Bhs Arab,12 IPA 3,Sutarto,3
+Kamis,Hadits,12 IPA 3,Dra. Hj. Mundiyah,4
+Kamis,SKI,12 IPA 3,Dra. Hj. Turliyah,5
+Kamis,Matematika,12 IPA 3,Eko Cahyono,6
+Kamis,Fisika,12 IPA 3,Chabib Junaedi,7
+Kamis,Bhs Inggris,12 IPA 3,Dra. Hj. Siti Chomsiyah,8
+Kamis,Penjaskes,12 IPA 3,Endang Prihatiningsih,9
+Jumat,Penjaskes,12 IPA 3,Hudadin,1
+Jumat,Geografi,12 IPA 3,Purwanto,2
+Jumat,Biologi,12 IPA 3,Muh. Nuryadin,3
+Jumat,PKn,12 IPA 3,Hj. Elisa Susanti,9
+Jumat,Akidah Akhlak,12 IPA 3,Hj. Laila Wahyuni,5
+Sabtu,Bhs Indonesia,12 IPA 3,Mustofa,1
+Sabtu,Bhs Indonesia,12 IPA 3,Mustofa,2
+Sabtu,Seni Budaya,12 IPA 3,Imam Ramadhan B P,3
+Sabtu,Bhs Jawa,12 IPA 3,Kustoto Amri,5
+Sabtu,Penjaskes,12 IPA 3,Hudadin,6
+Senin,Penjaskes,12 IPA 4,Hudadin,1
+Senin,PKn,12 IPA 4,Hj. Elisa Susanti,2
+Senin,Hadits,12 IPA 4,Dra. Hj. Mundiyah,3
+Senin,Prakaryan,12 IPA 4,Siti Nurhidayati,4
+Senin,Bhs Inggris,12 IPA 4,Dra. Hj. Siti Chomsiyah,5
+Senin,Bhs Inggris,12 IPA 4,Dra. Hj. Siti Chomsiyah,6
+Senin,Sosiologi LP,12 IPA 4,Muslichatun,7
+Senin,Matematika,12 IPA 4,Eko Cahyono,8
+Senin,Sejarah,12 IPA 4,Ika Surya Wardani,9
+Selasa,Fiqih,12 IPA 4,Imam Abdul Abas,1
+Selasa,Penjaskes,12 IPA 4,Endang Prihatiningsih,2
+Selasa,Qur'an Hadist,12 IPA 4,HJ. Rahmah Setiawati,3
+Selasa,Fiqih,12 IPA 4,Atourrohman,4
+Selasa,Seni Budaya,12 IPA 4,Imam Ramadhan B P,5
+Selasa,Riset,12 IPA 4,Toha Mukhtar,6
+Selasa,Fiqih,12 IPA 4,Imam Abdul Abas,7
+Selasa,Biologi LP,12 IPA 4,Handriyani,8
+Selasa,SKI,12 IPA 4,Dra. Hj. Turliyah,9
+Rabu,Bhs Inggris,12 IPA 4,Dra. Hj. Siti Chomsiyah,1
+Rabu,Kimia,12 IPA 4,Awalia Rahmah,2
+Rabu,SKI,12 IPA 4,Dra. Hj. Turliyah,3
+Rabu,Fisika,12 IPA 4,Chabib Junaedi,4
+Rabu,Prakaryan,12 IPA 4,Siti Nurhidayati,5
+Rabu,Biologi,12 IPA 4,Khusnul Khotimah,6
+Rabu,Tahfizd,12 IPA 4,Awalia Rahmah,7
+Rabu,Prakaryan,12 IPA 4,Fatma Dewi,8
+Rabu,Sejarah,12 IPA 4,Ika Surya Wardani,9
+Kamis,Tahfizd,12 IPA 4,Awalia Rahmah,2
+Kamis,Geografi,12 IPA 4,Purwanto,3
+Kamis,SKI,12 IPA 4,Dra. Hj. Turliyah,4
+Kamis,Penjaskes,12 IPA 4,Hudadin,5
+Kamis,PKn,12 IPA 4,Hj. Elisa Susanti,6
+Kamis,SKI,12 IPA 4,Dra. Hj. Turliyah,7
+Kamis,Biologi,12 IPA 4,Khusnul Khotimah,8
+Kamis,Fiqih,12 IPA 4,Atourrohman,9
+Jumat,Kimia,12 IPA 4,Toha Mukhtar,1
+Jumat,Bhs Indonesia,12 IPA 4,Sri Subekti,2
+Jumat,Matematika,12 IPA 4,Eko Cahyono,3
+Jumat,Biologi,12 IPA 4,Khusnul Khotimah,4
+Sabtu,Penjaskes,12 IPA 4,Hudadin,1
+Sabtu,Riset,12 IPA 4,Toha Mukhtar,2
+Sabtu,Biologi,12 IPA 4,Khusnul Khotimah,3
+Sabtu,Bhs Inggris,12 IPA 4,Istiqomah,4
+Sabtu,Prakaryan,12 IPA 4,Siti Nurhidayati,5
+Sabtu,Qur'an Hadist,12 IPA 4,HJ. Rahmah Setiawati,6
+Senin,Fiqih,12 IPA 5,Atourrohman,1
+Senin,Penjaskes,12 IPA 5,Hudadin,2
+Senin,Bhs Arab,12 IPA 5,Sutarto,3
+Senin,Riset,12 IPA 5,Yesy Wulandari,4
+Senin,Matematika,12 IPA 5,Eko Cahyono,5
+Senin,PKn,12 IPA 5,Hj. Elisa Susanti,6
+Senin,SKI,12 IPA 5,Dra. Hj. Turliyah,7
+Senin,Bhs Inggris,12 IPA 5,Dra. Hj. Siti Chomsiyah,8
+Senin,Kimia,12 IPA 5,Awalia Rahmah,9
+Selasa,Fiqih,12 IPA 5,Atourrohman,1
+Selasa,Penjaskes,12 IPA 5,Husen Masruri,2
+Selasa,PKn,12 IPA 5,Hj. Elisa Susanti,3
+Selasa,Sejarah,12 IPA 5,Ika Surya Wardani,4
+Selasa,Qur'an Hadist,12 IPA 5,HJ. Rahmah Setiawati,5
+Selasa,Sejarah,12 IPA 5,Ika Surya Wardani,6
+Selasa,Matematika,12 IPA 5,Slamet,7
+Selasa,Sosiologi LP,12 IPA 5,Muslichatun,8
+Selasa,Bhs Arab,12 IPA 5,Hj. Akfarotun,9
+Rabu,Bhs Indonesia,12 IPA 5,Mustofa,1
+Rabu,Geografi,12 IPA 5,Purwanto,2
+Rabu,Kimia,12 IPA 5,Toha Mukhtar,3
+Rabu,Qur'an Hadist,12 IPA 5,HJ. Rahmah Setiawati,4
+Rabu,Prakaryan,12 IPA 5,Fatma Dewi,5
+Rabu,Bahasa & Sastra Inggris,12 IPA 5,Aulia Rahma Eka Kusuma Dewi,6
+Rabu,Bhs Indonesia,12 IPA 5,Mustofa,7
+Rabu,PKn,12 IPA 5,Hj. Elisa Susanti,8
+Rabu,Prakaryan,12 IPA 5,Fatma Dewi,9
+Kamis,Bhs Inggris,12 IPA 5,Dra. Hj. Siti Chomsiyah,1
+Kamis,Bhs Inggris,12 IPA 5,Dra. Hj. Siti Chomsiyah,3
+Kamis,Fisika,12 IPA 5,Chabib Junaedi,4
+Kamis,Kimia,12 IPA 5,Awalia Rahmah,5
+Kamis,Akidah Akhlak,12 IPA 5,Hj. Laila Wahyuni,6
+Kamis,Penjaskes,12 IPA 5,Endang Prihatiningsih,7
+Kamis,SKI,12 IPA 5,Dra. Hj. Turliyah,8
+Kamis,Biologi LP,12 IPA 5,Toha Mukhtar,9
+Jumat,Bhs Inggris,12 IPA 5,Istiqomah,1
+Jumat,SKI,12 IPA 5,Dra. Hj. Turliyah,2
+Jumat,Tahfizd,12 IPA 5,Awalia Rahmah,3
+Jumat,Sosiologi LP,12 IPA 5,Muslichatun,4
+Jumat,Bhs Jawa,12 IPA 5,Kustoto Amri,5
+Sabtu,Riset,12 IPA 5,Toha Mukhtar,1
+Sabtu,Bhs Arab,12 IPA 5,Sutarto,2
+Sabtu,Fiqih,12 IPA 5,Atourrohman,3
+Sabtu,Matematika,12 IPA 5,Wawan Pujiyatno,4
+Sabtu,SKI,12 IPA 5,Dra. Hj. Turliyah,5
+Sabtu,Bahasa & Sastra Inggris,12 IPA 5,Aulia Rahma Eka Kusuma Dewi,6
+Senin,Biologi,12 IPA 6,Khusnul Khotimah,1
+Senin,Penjaskes,12 IPA 6,Endang Prihatiningsih,2
+Senin,Ekonomi,12 IPA 6,Siti Nurhidayati,3
+Senin,Penjaskes,12 IPA 6,Endang Prihatiningsih,4
+Senin,Ekonomi,12 IPA 6,Fatma Dewi,5
+Senin,SKI,12 IPA 6,Dra. Hj. Turliyah,6
+Senin,Fiqih,12 IPA 6,Atourrohman,7
+Senin,Akidah Akhlak,12 IPA 6,Chumaimatul Banat,8
+Senin,Matematika,12 IPA 6,Slamet,9
+Selasa,Matematika,12 IPA 6,Eko Cahyono,1
+Selasa,Prakaryan,12 IPA 6,Fatma Dewi,2
+Selasa,Matematika,12 IPA 6,Slamet,3
+Selasa,Prakaryan,12 IPA 6,Fatma Dewi,4
+Selasa,Sejarah,12 IPA 6,Ika Surya Wardani,5
+Selasa,Fisika,12 IPA 6,Chabib Junaedi,6
+Selasa,Tahfizd,12 IPA 6,Awalia Rahmah,7
+Selasa,Kimia,12 IPA 6,Awalia Rahmah,8
+Selasa,Qur'an Hadist,12 IPA 6,HJ. Rahmah Setiawati,9
+Rabu,Ekonomi,12 IPA 6,Fatma Dewi,1
+Rabu,Bhs Inggris,12 IPA 6,Dra. Hj. Siti Chomsiyah,2
+Rabu,Qur'an Hadist,12 IPA 6,HJ. Rahmah Setiawati,3
+Rabu,Bahasa & Sastra Inggris,12 IPA 6,Aulia Rahma Eka Kusuma Dewi,4
+Rabu,Matematika,12 IPA 6,Wawan Pujiyatno,5
+Rabu,Bhs Arab,12 IPA 6,Sutarto,6
+Rabu,Prakaryan,12 IPA 6,Fitriani Eka Rahmawati,7
+Rabu,Bhs Inggris,12 IPA 6,Dra. Hj. Siti Chomsiyah,8
+Kamis,SKI,12 IPA 6,Dra. Hj. Turliyah,1
+Kamis,Matematika Peminatan,12 IPA 6,Tri Haryani,2
+Kamis,Bhs Indonesia,12 IPA 6,Hartini,6
+Kamis,Prakaryan,12 IPA 6,Fatma Dewi,7
+Kamis,Akidah Akhlak,12 IPA 6,Hj. Laila Wahyuni,8
+Kamis,Bhs Arab,12 IPA 6,Hj. Akfarotun,9
+Jumat,Bhs Indonesia,12 IPA 6,Hartini,1
+Jumat,Kimia,12 IPA 6,Rafika Sarah Aulia,2
+Jumat,SKI,12 IPA 6,Dra. Hj. Turliyah,3
+Jumat,Matematika,12 IPA 6,Wawan Pujiyatno,4
+Jumat,Penjaskes,12 IPA 6,Hudadin,5
+Sabtu,Sejarah,12 IPA 6,Ika Surya Wardani,1
+Sabtu,SKI,12 IPA 6,Dra. Hj. Turliyah,2
+Sabtu,Penjaskes,12 IPA 6,Hudadin,3
+Sabtu,Bhs Arab,12 IPA 6,Hj. Akfarotun,4
+Sabtu,Prakaryan,12 IPA 6,Fatma Dewi,5
+Sabtu,Fiqih,12 IPA 6,Atourrohman,6
+Senin,Seni Budaya,12 IPA 7,Imam Ramadhan B P,1
+Senin,Fisika,12 IPA 7,Mohamad Sodik,2
+Senin,PKn,12 IPA 7,Hj. Elisa Susanti,3
+Senin,Sejarah,12 IPA 7,Ika Surya Wardani,4
+Senin,Geografi,12 IPA 7,Purwanto,6
+Senin,Biologi LP,12 IPA 7,Handriyani,7
+Senin,Bhs Indonesia,12 IPA 7,Mustofa,8
+Senin,Sosiologi,12 IPA 7,Handriyani,9
+Selasa,Bhs Indonesia,12 IPA 7,Mustofa,1
+Selasa,Matematika,12 IPA 7,Wawan Pujiyatno,2
+Selasa,Tafsir,12 IPA 7,HJ. Rahmah Setiawati,4
+Selasa,Bhs Arab,12 IPA 7,Hj. Akfarotun,5
+Selasa,Sosiologi LP,12 IPA 7,Muslichatun,6
+Selasa,Akidah Akhlak,12 IPA 7,Hj. Laila Wahyuni,7
+Selasa,Riset,12 IPA 7,Yesy Wulandari,8
+Selasa,Fiqih,12 IPA 7,Atourrohman,9
+Rabu,Kimia,12 IPA 7,Toha Mukhtar,1
+Rabu,Riset,12 IPA 7,Toha Mukhtar,2
+Rabu,Kimia,12 IPA 7,Toha Mukhtar,3
+Rabu,Sosiologi,12 IPA 7,Handriyani,4
+Rabu,Bhs Arab,12 IPA 7,Sutarto,5
+Rabu,Matematika,12 IPA 7,Slamet,6
+Rabu,Tafsir,12 IPA 7,HJ. Rahmah Setiawati,7
+Rabu,Riset,12 IPA 7,Aulia Rahma Eka Kusuma Dewi,8
+Rabu,Bhs Jawa,12 IPA 7,Kustoto Amri,9
+Kamis,Akidah Akhlak,12 IPA 7,Hj. Laila Wahyuni,1
+Kamis,Fisika,12 IPA 7,Chabib Junaedi,2
+Kamis,Matematika,12 IPA 7,Slamet,3
+Kamis,Sosiologi LP,12 IPA 7,Muslichatun,4
+Kamis,Tahfizd,12 IPA 7,Awalia Rahmah,5
+Kamis,Bhs Inggris,12 IPA 7,Dra. Hj. Siti Chomsiyah,6
+Kamis,PKn,12 IPA 7,Hj. Elisa Susanti,7
+Kamis,Seni Budaya,12 IPA 7,Imam Ramadhan B P,8
+Jumat,Prakaryan,12 IPA 7,Siti Nurhidayati,1
+Jumat,Sejarah,12 IPA 7,Ika Surya Wardani,2
+Jumat,Bhs Inggris,12 IPA 7,Dra. Hj. Siti Chomsiyah,3
+Jumat,Matematika,12 IPA 7,Slamet,4
+Jumat,Matematika,12 IPA 7,Eko Cahyono,5
+Sabtu,Kimia,12 IPA 7,Toha Mukhtar,1
+Sabtu,Geografi,12 IPA 7,Purwanto,2
+Sabtu,Tafsir,12 IPA 7,HJ. Rahmah Setiawati,3
+Sabtu,Seni Budaya,12 IPA 7,Imam Ramadhan B P,4
+Sabtu,Akidah Akhlak,12 IPA 7,Hj. Laila Wahyuni,5
+Sabtu,Penjaskes,12 IPA 7,Husen Masruri,6
+Senin,Riset,12 IPS 1,Aulia Rahma Eka Kusuma Dewi,1
+Senin,Riset,12 IPS 1,Toha Mukhtar,2
+Senin,Penjaskes,12 IPS 1,Endang Prihatiningsih,3
+Senin,Kimia,12 IPS 1,Awalia Rahmah,4
+Senin,Seni Budaya,12 IPS 1,Imam Ramadhan B P,5
+Senin,Penjaskes,12 IPS 1,Hudadin,6
+Senin,Riset,12 IPS 1,Toha Mukhtar,7
+Senin,Sejarah,12 IPS 1,Ika Surya Wardani,8
+Senin,Qur'an Hadist,12 IPS 1,HJ. Rahmah Setiawati,9
+Selasa,Sejarah,12 IPS 1,Ika Surya Wardani,1
+Selasa,Matematika,12 IPS 1,Wawan Pujiyatno,2
+Selasa,Sosiologi,12 IPS 1,Handriyani,3
+Selasa,Bhs Inggris,12 IPS 1,Istiqomah,4
+Selasa,Kimia,12 IPS 1,Toha Mukhtar,5
+Selasa,Bhs Inggris,12 IPS 1,Dra. Hj. Siti Chomsiyah,6
+Selasa,Sejarah,12 IPS 1,Ika Surya Wardani,7
+Selasa,PKn,12 IPS 1,Hj. Elisa Susanti,8
+Selasa,Bhs Inggris,12 IPS 1,Dra. Hj. Siti Chomsiyah,9
+Rabu,Ekonomi,12 IPS 1,Fatma Dewi,1
+Rabu,Penjaskes,12 IPS 1,Husen Masruri,2
+Rabu,Matematika Peminatan,12 IPS 1,Yesy Wulandari,3
+Rabu,Seni Budaya,12 IPS 1,Imam Ramadhan B P,4
+Rabu,Bhs Inggris,12 IPS 1,Dra. Hj. Siti Chomsiyah,5
+Rabu,Riset,12 IPS 1,Yesy Wulandari,6
+Rabu,SKI,12 IPS 1,Dra. Hj. Turliyah,7
+Rabu,Bhs Inggris,12 IPS 1,Dra. Hj. Siti Chomsiyah,8
+Rabu,Biologi,12 IPS 1,Khusnul Khotimah,9
+Kamis,Fiqih,12 IPS 1,Atourrohman,1
+Kamis,Sejarah,12 IPS 1,Ika Surya Wardani,2
+Kamis,Bhs Indonesia,12 IPS 1,Mustofa,3
+Kamis,Bhs Indonesia,12 IPS 1,Hartini,4
+Kamis,Bhs Jawa,12 IPS 1,Kustoto Amri,6
+Kamis,Tafsir,12 IPS 1,HJ. Rahmah Setiawati,7
+Kamis,Penjaskes,12 IPS 1,Hudadin,8
+Kamis,Fisika,12 IPS 1,Mohamad Sodik,9
+Jumat,Bahasa & Sastra Inggris,12 IPS 1,Aulia Rahma Eka Kusuma Dewi,1
+Jumat,Fiqih,12 IPS 1,Atourrohman,2
+Jumat,Prakaryan,12 IPS 1,Siti Nurhidayati,3
+Jumat,PKn,12 IPS 1,Hj. Elisa Susanti,4
+Jumat,Riset,12 IPS 1,Aulia Rahma Eka Kusuma Dewi,5
+Sabtu,Bhs Indonesia,12 IPS 1,Sri Subekti,1
+Sabtu,Tahfizd,12 IPS 1,Awalia Rahmah,2
+Sabtu,Kimia,12 IPS 1,Rafika Sarah Aulia,3
+Sabtu,Riset,12 IPS 1,Toha Mukhtar,4
+Sabtu,Ekonomi,12 IPS 1,Fatma Dewi,5
+Sabtu,Prakaryan,12 IPS 1,Fatma Dewi,6
+Senin,Bhs Inggris,12 IPS 2,Dra. Hj. Siti Chomsiyah,1
+Senin,Fiqih,12 IPS 2,Atourrohman,3
+Senin,Biologi,12 IPS 2,Khusnul Khotimah,4
+Senin,Riset,12 IPS 2,Toha Mukhtar,5
+Senin,Qur'an Hadist,12 IPS 2,HJ. Rahmah Setiawati,6
+Senin,Hadits,12 IPS 2,Dra. Hj. Mundiyah,7
+Senin,Kimia,12 IPS 2,Rafika Sarah Aulia,8
+Senin,SKI,12 IPS 2,Dra. Hj. Turliyah,9
+Selasa,Ekonomi,12 IPS 2,Fatma Dewi,1
+Selasa,Bhs Jawa,12 IPS 2,Kustoto Amri,2
+Selasa,PKn,12 IPS 2,Hj. Elisa Susanti,3
+Selasa,Penjaskes,12 IPS 2,Hudadin,4
+Selasa,Tafsir,12 IPS 2,HJ. Rahmah Setiawati,5
+Selasa,Ekonomi,12 IPS 2,Siti Nurhidayati,6
+Selasa,Matematika,12 IPS 2,Slamet,7
+Selasa,Fiqih,12 IPS 2,Atourrohman,8
+Selasa,Bhs Indonesia,12 IPS 2,Mustofa,9
+Rabu,Bhs Inggris,12 IPS 2,Istiqomah,2
+Rabu,Bhs Indonesia,12 IPS 2,Mustofa,3
+Rabu,PKn,12 IPS 2,Hj. Elisa Susanti,4
+Rabu,PKn,12 IPS 2,Hj. Elisa Susanti,5
+Rabu,Bhs Jawa,12 IPS 2,Kustoto Amri,6
+Rabu,Bhs Inggris,12 IPS 2,Dra. Hj. Siti Chomsiyah,7
+Rabu,Matematika,12 IPS 2,Wawan Pujiyatno,8
+Rabu,Matematika,12 IPS 2,Slamet,9
+Kamis,SKI,12 IPS 2,Dra. Hj. Turliyah,1
+Kamis,Matematika,12 IPS 2,Eko Cahyono,2
+Kamis,PKn,12 IPS 2,Hj. Elisa Susanti,3
+Kamis,Fisika,12 IPS 2,Chabib Junaedi,4
+Kamis,Hadits,12 IPS 2,Dra. Hj. Mundiyah,5
+Kamis,Akidah Akhlak,12 IPS 2,Chumaimatul Banat,6
+Kamis,Hadits,12 IPS 2,Dra. Hj. Mundiyah,7
+Kamis,Prakaryan,12 IPS 2,Siti Nurhidayati,8
+Kamis,Bhs Inggris,12 IPS 2,Dra. Hj. Siti Chomsiyah,9
+Jumat,Fiqih,12 IPS 2,Atourrohman,1
+Jumat,Bhs Inggris,12 IPS 2,Istiqomah,2
+Jumat,Bhs Indonesia,12 IPS 2,Mustofa,3
+Jumat,Prakaryan,12 IPS 2,Siti Nurhidayati,4
+Jumat,Matematika,12 IPS 2,Eko Cahyono,5
+Sabtu,Bhs Indonesia,12 IPS 2,Mustofa,1
+Sabtu,Matematika,12 IPS 2,Eko Cahyono,2
+Sabtu,Bhs Indonesia,12 IPS 2,Mustofa,3
+Sabtu,Riset,12 IPS 2,Yesy Wulandari,4
+Sabtu,SKI,12 IPS 2,Dra. Hj. Turliyah,5
+Sabtu,Ekonomi,12 IPS 2,Fatma Dewi,6
+Senin,Bhs Inggris,12 IPS 3,Dra. Hj. Siti Chomsiyah,1
+Senin,Riset,12 IPS 3,Toha Mukhtar,2
+Senin,Bhs Arab,12 IPS 3,Hj. Akfarotun,3
+Senin,Bhs Indonesia,12 IPS 3,Sri Subekti,4
+Senin,Fisika,12 IPS 3,Chabib Junaedi,5
+Senin,Fisika,12 IPS 3,Chabib Junaedi,6
+Senin,Akidah Akhlak,12 IPS 3,Hj. Laila Wahyuni,7
+Senin,Penjaskes,12 IPS 3,Hudadin,8
+Senin,Sejarah,12 IPS 3,Ika Surya Wardani,9
+Selasa,Riset,12 IPS 3,Toha Mukhtar,1
+Selasa,Seni Budaya,12 IPS 3,Imam Ramadhan B P,2
+Selasa,Akidah Akhlak,12 IPS 3,Hj. Laila Wahyuni,3
+Selasa,Bhs Arab,12 IPS 3,Hj. Akfarotun,4
+Selasa,PKn,12 IPS 3,Hj. Elisa Susanti,5
+Selasa,Penjaskes,12 IPS 3,Endang Prihatiningsih,6
+Selasa,Bhs Arab,12 IPS 3,Hj. Akfarotun,7
+Selasa,Tafsir,12 IPS 3,HJ. Rahmah Setiawati,8
+Selasa,Prakaryan,12 IPS 3,Fatma Dewi,9
+Rabu,Penjaskes,12 IPS 3,Endang Prihatiningsih,1
+Rabu,Fisika,12 IPS 3,Mohamad Sodik,2
+Rabu,Tahfizd,12 IPS 3,Awalia Rahmah,3
+Rabu,Kimia,12 IPS 3,Toha Mukhtar,4
+Rabu,Biologi LP,12 IPS 3,Handriyani,5
+Rabu,Bhs Arab,12 IPS 3,Hj. Akfarotun,6
+Rabu,Bhs Arab,12 IPS 3,Hj. Akfarotun,7
+Rabu,Biologi,12 IPS 3,Khusnul Khotimah,8
+Rabu,Hadits,12 IPS 3,Dra. Hj. Mundiyah,9
+Kamis,Riset,12 IPS 3,Aulia Rahma Eka Kusuma Dewi,1
+Kamis,SKI,12 IPS 3,Dra. Hj. Turliyah,2
+Kamis,Sosiologi,12 IPS 3,Handriyani,3
+Kamis,PKn,12 IPS 3,Hj. Elisa Susanti,4
+Kamis,Prakaryan,12 IPS 3,Siti Nurhidayati,5
+Kamis,Matematika,12 IPS 3,Eko Cahyono,6
+Kamis,Hadits,12 IPS 3,Dra. Hj. Mundiyah,7
+Kamis,Penjaskes,12 IPS 3,Husen Masruri,8
+Kamis,PKn,12 IPS 3,Hj. Elisa Susanti,9
+Jumat,Bhs Indonesia,12 IPS 3,Mustofa,1
+Jumat,Fiqih,12 IPS 3,Atourrohman,2
+Jumat,Hadits,12 IPS 3,Dra. Hj. Mundiyah,3
+Jumat,Seni Budaya,12 IPS 3,Imam Ramadhan B P,4
+Jumat,Qur'an Hadist,12 IPS 3,HJ. Rahmah Setiawati,5
+Sabtu,Bhs Arab,12 IPS 3,Hj. Akfarotun,1
+Sabtu,Bhs Indonesia,12 IPS 3,Mustofa,2
+Sabtu,Bhs Inggris,12 IPS 3,Dra. Hj. Siti Chomsiyah,3
+Sabtu,Akidah Akhlak,12 IPS 3,Chumaimatul Banat,4
+Sabtu,Bhs Indonesia,12 IPS 3,Mustofa,5
+Sabtu,Prakaryan,12 IPS 3,Fatma Dewi,6
+Senin,Bhs Arab,12 Agama,Hj. Akfarotun,1
+Senin,Matematika Peminatan,12 Agama,Yesy Wulandari,2
+Senin,Bhs Inggris,12 Agama,Istiqomah,3
+Senin,Matematika,12 Agama,Wawan Pujiyatno,4
+Senin,Penjaskes,12 Agama,Hudadin,5
+Senin,Penjaskes,12 Agama,Endang Prihatiningsih,6
+Senin,Biologi,12 Agama,Muh. Nuryadin,7
+Senin,Bhs Indonesia,12 Agama,Mustofa,8
+Senin,Seni Budaya,12 Agama,Imam Ramadhan B P,9
+Selasa,Riset,12 Agama,Aulia Rahma Eka Kusuma Dewi,1
+Selasa,Akidah Akhlak,12 Agama,Hj. Laila Wahyuni,2
+Selasa,Seni Budaya,12 Agama,Imam Ramadhan B P,3
+Selasa,Riset,12 Agama,Yesy Wulandari,5
+Selasa,Riset,12 Agama,Yesy Wulandari,6
+Selasa,Riset,12 Agama,Aulia Rahma Eka Kusuma Dewi,7
+Selasa,Penjaskes,12 Agama,Hudadin,8
+Selasa,Prakaryan,12 Agama,Fatma Dewi,9
+Rabu,Biologi LP,12 Agama,Handriyani,1
+Rabu,Qur'an Hadist,12 Agama,HJ. Rahmah Setiawati,2
+Rabu,Riset,12 Agama,Toha Mukhtar,3
+Rabu,Penjaskes,12 Agama,Endang Prihatiningsih,4
+Rabu,Fiqih,12 Agama,Atourrohman,5
+Rabu,Matematika Peminatan,12 Agama,Tri Haryani,6
+Rabu,Riset,12 Agama,Yesy Wulandari,7
+Rabu,Prakaryan,12 Agama,Siti Nurhidayati,8
+Rabu,Bhs Indonesia,12 Agama,Mustofa,9
+Kamis,Akidah Akhlak,12 Agama,Hj. Laila Wahyuni,1
+Kamis,Prakaryan,12 Agama,Fatma Dewi,2
+Kamis,Seni Budaya,12 Agama,Imam Ramadhan B P,3
+Kamis,Fiqih,12 Agama,Atourrohman,4
+Kamis,Penjaskes,12 Agama,Endang Prihatiningsih,5
+Kamis,Bhs Inggris,12 Agama,Istiqomah,6
+Kamis,Biologi,12 Agama,Muh. Nuryadin,7
+Kamis,Fiqih,12 Agama,Atourrohman,8
+Kamis,Sosiologi LP,12 Agama,Muslichatun,9
+Jumat,PKn,12 Agama,Hj. Elisa Susanti,1
+Jumat,Bhs Indonesia,12 Agama,Mustofa,2
+Jumat,Akidah Akhlak,12 Agama,Hj. Laila Wahyuni,3
+Jumat,Bhs Indonesia,12 Agama,Mustofa,4
+Jumat,Kimia,12 Agama,Toha Mukhtar,5
+Sabtu,SKI,12 Agama,Dra. Hj. Turliyah,1
+Sabtu,Kimia,12 Agama,Toha Mukhtar,2
+Sabtu,Tahfizd,12 Agama,Awalia Rahmah,3
+Sabtu,Matematika Peminatan,12 Agama,Yesy Wulandari,4
+Sabtu,Bhs Inggris,12 Agama,Dra. Hj. Siti Chomsiyah,6
