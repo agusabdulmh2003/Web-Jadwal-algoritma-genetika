@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+matplotlib
+icalendar
+reportlab
+flask-caching
+python-dotenv
+scikit-learn
+gunicorn
